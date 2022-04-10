@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/blogs-website/static/css/main.bdfa3ce7.css",
+    "main.js": "/blogs-website/static/js/main.a13cd926.js",
+    "static/js/787.d654f185.chunk.js": "/blogs-website/static/js/787.d654f185.chunk.js",
+    "static/media/sign.png": "/blogs-website/static/media/sign.41022d615d81493085d3.png",
+    "static/media/Slide2.webp": "/blogs-website/static/media/Slide2.8e0877b82b93d5b95dfc.webp",
+    "static/media/img1.jpg": "/blogs-website/static/media/img1.b677da7588fd9fbf6136.jpg",
+    "static/media/footer3.jpg": "/blogs-website/static/media/footer3.091686bac574f241269d.jpg",
+    "static/media/footer7.jpg": "/blogs-website/static/media/footer7.2fea4e80b00c904296f4.jpg",
+    "static/media/footer1.jpg": "/blogs-website/static/media/footer1.ee2850560f3352240b9f.jpg",
+    "static/media/footer6.jpg": "/blogs-website/static/media/footer6.1ec28f85c257139021fc.jpg",
+    "static/media/footer5.jpg": "/blogs-website/static/media/footer5.6eb5d8f70579f43e6360.jpg",
+    "static/media/footer2.jpg": "/blogs-website/static/media/footer2.46e54845c1831432e9c3.jpg",
+    "static/media/Slide1.webp": "/blogs-website/static/media/Slide1.994e48953fe08ead6f0d.webp",
+    "static/media/img2.jpg": "/blogs-website/static/media/img2.e27e06ff5634336d3169.jpg",
+    "static/media/footer4.jpg": "/blogs-website/static/media/footer4.320e1807c5281ec1dda4.jpg",
+    "static/media/blog3.webp": "/blogs-website/static/media/blog3.0d209525eb07920aa75e.webp",
+    "static/media/mainImg.webp": "/blogs-website/static/media/mainImg.b2ec1ac65b79ccd252d9.webp",
+    "static/media/posts1.webp": "/blogs-website/static/media/posts1.80a574b9abef5cff660c.webp",
+    "static/media/blog.webp": "/blogs-website/static/media/blog.0eb37d6b4459869516d1.webp",
+    "static/media/posts2.webp": "/blogs-website/static/media/posts2.b394da33fa146dff8acc.webp",
+    "static/media/posts4.webp": "/blogs-website/static/media/posts4.319f228fee93025fe7be.webp",
+    "static/media/posts3.webp": "/blogs-website/static/media/posts3.e2a231ec2717dc9e690f.webp",
+    "index.html": "/blogs-website/index.html",
+    "main.bdfa3ce7.css.map": "/blogs-website/static/css/main.bdfa3ce7.css.map",
+    "main.a13cd926.js.map": "/blogs-website/static/js/main.a13cd926.js.map",
+    "787.d654f185.chunk.js.map": "/blogs-website/static/js/787.d654f185.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdfa3ce7.css",
+    "static/js/main.a13cd926.js"
+  ]
+}
